@@ -1,0 +1,10 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  top: 0;
+}
+
+.button {
+  width: fit-content;
+  margin-bottom: 1em;
+}
